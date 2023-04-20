@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sujonalmamun
-- 👀 I’m interested in programing and learning
-- 🌱 I’m currently learning fullstack web development
-- 💞️ I’m looking to collaborate on web development community
+- 👀 I’m interested in something
+- 🌱 I’m currently learning something
+- 💞️ I’m looking to collaborate on something
 - 📫 How to reach me sujonalmamun050@gmail.com
 
 <!---
